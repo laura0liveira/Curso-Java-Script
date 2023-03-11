@@ -15,15 +15,6 @@ Existem algumas formas de manipular string:*/
 
 
 
-
-
-
-
-
-
-
-
-
 ///let MeuNome = "laura leticia oliveira";
 
 
