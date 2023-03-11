@@ -2,6 +2,27 @@
 Existem algumas formas de manipular string:*/
 
 
+/*length checa o tamanho da string;
+
+*split separa uma string definindo um limitador;
+
+*replace substitui trechos da string;
+
+*slice retorna só um trecho da string;
+
+*substring retorna trechos de string informando a posição.*/
+
+
+
+
+
+
+
+
+
+
+
+
 
 ///let MeuNome = "laura leticia oliveira";
 
