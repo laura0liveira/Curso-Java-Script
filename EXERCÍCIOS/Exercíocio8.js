@@ -8,7 +8,7 @@
 
     } else {
         console.log ("Boa Tarde");
-    }
+    }*/
 
 
     ///OUTRO EXEMPLO 
@@ -22,7 +22,7 @@
     }
 
 
-    let hora = 10
+    /*let hora = 10
     if (hora > 12){
         console.log ("Bom dia!");
     } else if ( hora <10){
